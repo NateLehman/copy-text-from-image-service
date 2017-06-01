@@ -2,5 +2,5 @@
 A macOS right click service that OCRs an image and copies the text to your clipboard
 
 # Installation
-- Install tesseract
+- Install tesseract (`brew install tesseract`)
 - Double click the `Copy Text from Image.workflow` and install.
