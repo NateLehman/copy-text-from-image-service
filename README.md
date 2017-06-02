@@ -6,4 +6,4 @@ Once installed you can right click images with text in them, then, at the bottom
 
 ## Installation
 - Install tesseract (`brew install tesseract`)
-- Double click the `Copy Text from Image.workflow` and install.
+- Double click the `Copy Text from Image.workflow` and install from the prompt.
