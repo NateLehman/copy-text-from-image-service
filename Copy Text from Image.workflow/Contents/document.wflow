@@ -59,7 +59,8 @@
 				<key>ActionParameters</key>
 				<dict>
 					<key>COMMAND_STRING</key>
-					<string>for f in "$@"
+					<string>PATH="/usr/local/bin:$PATH"
+for f in "$@"
 do
 	tesseract "$f" stdout | pbcopy
 done</string>
